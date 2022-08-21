@@ -548,6 +548,8 @@ transform: scale(1.2);
 
 
 
+
+
 .research_title{
 	font-size: 20px;
 }
@@ -558,4 +560,15 @@ transform: scale(1.2);
 
 .contact_members{
 	display: grid;
+}
+
+
+.Daily_News{
+	width: 70%;
+	transition: all 0.5s linear;
+}
+
+.Daily_News:hover{
+box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.3);
+transform: scale(2);
 }
