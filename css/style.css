@@ -176,7 +176,9 @@ header nav ul li.dropdown:hover .dropdown-menu {
 	font-size: 16px;
 }
 
-
+.main_content{
+	font-size: 12px;
+}
 
 
 
@@ -328,11 +330,14 @@ img.thumb_medium {
     padding: 5px;
     width: 230px;
 		height: 200px;
-		margin: auto;
+		margin: 20px;
+		transition: all 0.3s linear;
+		display: inline-flex;
 }
 
 img.thumb_medium:hover {
     box-shadow: 0 0 2px 2px #e2e2e2;
+		transform: scale(1.5);
 }
 
 img.thumb_medium02 {
@@ -340,6 +345,12 @@ img.thumb_medium02 {
     padding: 5px;
     width: 300px;
 		height: 400px;
+		margin: 20px;
+}
+
+img.thumb_medium02:hover {
+    box-shadow: 0 0 2px 2px #e2e2e2;
+		transform: scale(1.5);
 }
 
 img.thumb_medium03 {
@@ -347,6 +358,13 @@ img.thumb_medium03 {
     padding: 5px;
     width: 180px;
 		height: 240px;
+		margin: 20px;
+		transition: all 0.3s linear;
+}
+
+img.thumb_medium03:hover {
+    box-shadow: 0 0 2px 2px #e2e2e2;
+		transform: scale(1.5);
 }
 
 
@@ -565,10 +583,10 @@ transform: scale(1.2);
 
 .Daily_News{
 	width: 70%;
-	transition: all 0.5s linear;
+
 }
 
 .Daily_News:hover{
 box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.3);
-transform: scale(2);
+
 }
