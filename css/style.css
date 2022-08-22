@@ -173,7 +173,7 @@ header nav ul li.dropdown:hover .dropdown-menu {
 .memb{
 	display: grid;
 	grid-template-columns: 160px 1fr;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 
@@ -451,7 +451,7 @@ footer a {
 .paper{
 	word-break: break-all;
 	margin: 20px;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 .researchindex{
