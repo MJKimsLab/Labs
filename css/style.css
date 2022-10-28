@@ -147,8 +147,7 @@ header nav ul li.dropdown:hover .dropdown-menu {
 
 .slider .inner {
 
-	margin-left: 30%;
-	margin-right: 30%;
+
 	width: 1fr;
 	height: 171px;
 }
@@ -600,7 +599,7 @@ transform: scale(1.2);
 }
 
 .Daily_News{
-	width: 70%;
+	width: 100%;
 
 }
 
