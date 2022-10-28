@@ -146,7 +146,9 @@ header nav ul li.dropdown:hover .dropdown-menu {
 }
 
 .slider .inner {
-	margin: 0 auto;
+
+	margin-left: 30%;
+	margin-right: 30%;
 	width: 1fr;
 	height: 171px;
 }
