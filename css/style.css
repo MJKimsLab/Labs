@@ -346,6 +346,27 @@ img.thumb_medium:hover {
 		transform: scale(1.3);
 }
 
+
+img.thumb_medium09 {
+
+
+	  padding: 0px;
+		margin: 40px;
+    width: 210px;
+		height: 90px;
+
+		transition: all 0.3s linear;
+
+}
+
+img.thumb_medium09:hover {
+    box-shadow: 0 0 2px 2px #e2e2e2;
+		transform: scale(1.1);
+}
+
+
+
+
 img.thumb_medium02 {
     border: 1px solid #dbdbdb;
     padding: 5px;
