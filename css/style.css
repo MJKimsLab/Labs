@@ -351,7 +351,9 @@ img.thumb_medium09 {
 
 
 	  padding: 0px;
-		margin: 40px;
+		margin: 0px;
+		margin-left: 30px;
+	 margin-top: 5px;
     width: 210px;
 		height: 90px;
 
@@ -493,6 +495,16 @@ footer a {
 
 
 }
+
+
+.figure01{
+	width: 270px;
+
+
+}
+
+
+
 
 .paper{
 	word-break: break-all;
