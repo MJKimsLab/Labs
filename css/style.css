@@ -351,9 +351,10 @@ img.thumb_medium09 {
 
 
 	  padding: 0px;
-		margin: 0px;
+		margin: 0;
 		margin-left: 30px;
-	 margin-top: 5px;
+	 	margin-top: : 10px;
+	 	margin-bottom: : 10px;
     width: 210px;
 		height: 90px;
 
