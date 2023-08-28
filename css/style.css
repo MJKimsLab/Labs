@@ -1,5 +1,6 @@
 
 
+
 html{
 	margin: 2%;
 	border: Solid 1px #f0f0f0;
@@ -46,6 +47,13 @@ header .head {
 	height: 110px;
 	margin: 0 auto;
 	clear: both;
+}
+
+.mainlogo {
+
+	width: auto;
+	height: 90px;
+	margin: 10px;
 }
 
 header .head .logo {
